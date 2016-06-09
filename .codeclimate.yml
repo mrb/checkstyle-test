@@ -1,4 +1,4 @@
 engines:
   checkstyle:
     enabled: true
-    config: foo.xml
+    channel: "beta"

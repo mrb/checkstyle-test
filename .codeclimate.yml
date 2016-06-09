@@ -1,0 +1,4 @@
+engines:
+  checkstyle:
+    enabled: true
+    config: foo.xml
